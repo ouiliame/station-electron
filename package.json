@@ -6,7 +6,7 @@
   "license": "ISC",
   "build": {
     "appId": "money.terra.station",
-    "productName": "Terra Station",
+    "productName": "Terra Station (Staging)",
     "copyright": "Copyright © 2019-present ${author}",
     "mac": {
       "target": "dmg",
